@@ -1,0 +1,13 @@
+/Users/jared/Repos/MethodsExercise/MethodsExercise/bin/Debug/netcoreapp3.1/MethodsExercise.deps.json
+/Users/jared/Repos/MethodsExercise/MethodsExercise/bin/Debug/netcoreapp3.1/MethodsExercise.runtimeconfig.json
+/Users/jared/Repos/MethodsExercise/MethodsExercise/bin/Debug/netcoreapp3.1/MethodsExercise.runtimeconfig.dev.json
+/Users/jared/Repos/MethodsExercise/MethodsExercise/bin/Debug/netcoreapp3.1/MethodsExercise.dll
+/Users/jared/Repos/MethodsExercise/MethodsExercise/bin/Debug/netcoreapp3.1/MethodsExercise.pdb
+/Users/jared/Repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.csproj.AssemblyReference.cache
+/Users/jared/Repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jared/Repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.AssemblyInfoInputs.cache
+/Users/jared/Repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.AssemblyInfo.cs
+/Users/jared/Repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.csproj.CoreCompileInputs.cache
+/Users/jared/Repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.dll
+/Users/jared/Repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.pdb
+/Users/jared/Repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.genruntimeconfig.cache
